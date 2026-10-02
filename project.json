@@ -1,0 +1,21 @@
+{
+  "id": 831,
+  "title": "Search Beacon Drone Waypoint Missions",
+  "repository_slug": "search-beacon-drone-waypoint-missions",
+  "category": "Drones",
+  "platform": "ESP32",
+  "platform_family": "arduino",
+  "difficulty": "Advanced",
+  "estimated_hours": 52,
+  "connectivity": "LTE",
+  "components": [
+    "LiDAR",
+    "GPS module",
+    "barometer"
+  ],
+  "scope": "Build a drones prototype that uses LiDAR, GPS module, barometer to fly repeatable waypoint routes. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Waypoint Missions demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/search-beacon-drone-waypoint-missions/search-beacon-drone-waypoint-missions.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
